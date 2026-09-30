@@ -244,3 +244,15 @@ img { max-width: 100%; display: block; }
 
   .nav.ativo { display: flex; }
 }
+
+/* ============ DESTAQUE DE TEXTO ============ */
+.destque {
+   font-weight: 700;
+}
+.destaque-azul {
+  color: #6994a3;      
+}
+
+.destaque-laranja {
+  color: #FF7518;
+}
