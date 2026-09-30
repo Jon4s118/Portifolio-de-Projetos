@@ -1,10 +1,10 @@
-# 🌐 Jonas Gabriel — Sites para Negócios Locais
+# 🌐 Novera — Sites para Negócios Locais
 
 Olá, como vai? Me chamo Jonas, faço a criação de sites acessíveis para negócios locais: restaurantes, barbearias,
 academias e profissionais liberais. Sites rápidos, profissionais e sem preço
 de agência.
 
-> 📄 Site publicado: [VER AQUI](https://SEUUSUARIO.github.io/meu-portfolio-sites/)
+> 📄 Site publicado: [VER AQUI](https://jon4s118.github.io/Portifolio-de-Projetos/)
 
 ## 🎯 Sobre
 
