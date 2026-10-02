@@ -207,7 +207,7 @@ img { max-width: 100%; display: block; }
   border-radius: 999px;
 }
 
-.card__tag_inativo {
+.card__tag_ativo {
   position: absolute;
   top: 16px;
   right: 16px;
