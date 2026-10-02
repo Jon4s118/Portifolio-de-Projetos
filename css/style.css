@@ -6,6 +6,7 @@
   --cor-principal-escura: #14523f;
   --cor-fundo: #ffffff;
   --cor-fundo-alt: #f4f7f6;
+  --cor-fundo-verde: #90EE90; 
   --cor-texto: #22303c;
   --cor-texto-suave: #5a6b78;
   --cor-branco: #ffffff;
@@ -183,10 +184,6 @@ img { max-width: 100%; display: block; }
 
 .card__icon { font-size: 2rem; }
 
-.card__ativo { 
-   background-color:#88e788;
-   font-size: 2rem; }
-
 .card h3 { margin: 12px 0 8px; font-size: 1.15rem; }
 
 .card p { color: var(--cor-texto-suave); }
@@ -197,7 +194,7 @@ img { max-width: 100%; display: block; }
   position: relative;
 }
 
-.card__tag {
+.card__tag_inativo {
   position: absolute;
   top: 16px;
   right: 16px;
@@ -210,6 +207,18 @@ img { max-width: 100%; display: block; }
   border-radius: 999px;
 }
 
+.card__tag_inativo {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  background: var(--cor-fundo-verde);
+  color: var(--cor-texto-suave);
+  font-size: .7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 4px 10px;
+  border-radius: 999px;
+}
 /* ============ CONTATO ============ */
 .contact { padding-block: 10px; }
 .contact p { margin-bottom: 26px; color: var(--cor-texto-suave); }
